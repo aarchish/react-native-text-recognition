@@ -1,6 +1,6 @@
 {
   "name": "@johnsriders/react-native-text-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native MLKIT Setup for Text Recognition",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -15,7 +15,6 @@
     "react": "^18.3.0",
     "react-native": "^0.77.1"
   },
-
   "keywords": [
     "react",
     "native",
