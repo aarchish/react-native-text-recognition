@@ -1,5 +1,5 @@
 {
-  "name": "@jd/react-native-text-recognition",
+  "name": "@johnsriders/react-native-text-recognition",
   "version": "1.0.0",
   "description": "React Native MLKIT Setup for Text Recognition",
   "main": "src/index.js",
