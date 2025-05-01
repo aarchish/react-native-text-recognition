@@ -54,7 +54,7 @@ implementation 'com.google.android.gms:play-services-mlkit-text-recognition:19.0
 
 ```javascript
 
-import TextRecognition from '@jd/react-native-text-recognition';
+import TextRecognition from '@johnsriders/react-native-text-recognition';
 
 TextRecognition.recognizeFromImage(imagePath)
   .then(text => console.log("Recognized text:", text))
