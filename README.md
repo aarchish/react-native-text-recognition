@@ -27,8 +27,6 @@ Perfect for OCR features, document scanning, form auto-fill, and more!
 This library uses Google ML Kit , so you'll need to update your Podfile accordingly:
 ## Installation IOS
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 pod 'TextRecognition', :path => '../node_modules/@johnsriders/react-native-text-recognition/ios'
 
