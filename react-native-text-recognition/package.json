@@ -1,0 +1,30 @@
+{
+  "name": "@johnsriders/react-native-text-recognition",
+  "version": "1.0.4",
+  "description": "React Native MLKIT Setup for Text Recognition",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^18.3.0",
+    "react-native": "^0.77.1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ml-kit",
+    "text-recognition"
+  ],
+  "author": "Junaid Younas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junaidyounas/react-native-text-recognition.git"
+  }
+}
